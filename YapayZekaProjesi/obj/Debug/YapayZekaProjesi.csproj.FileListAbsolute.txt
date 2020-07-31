@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\bin\Debug\YapayZekaProjesi.exe.config
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\bin\Debug\YapayZekaProjesi.exe
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\bin\Debug\YapayZekaProjesi.pdb
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\obj\Debug\YapayZekaProjesi.csprojAssemblyReference.cache
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\obj\Debug\App.g.cs
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\obj\Debug\YapayZekaProjesi_MarkupCompile.cache
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\obj\Debug\YapayZekaProjesi_MarkupCompile.lref
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\obj\Debug\YapayZekaProjesi.g.resources
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\obj\Debug\YapayZekaProjesi.Properties.Resources.resources
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\obj\Debug\YapayZekaProjesi.csproj.GenerateResource.cache
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\obj\Debug\YapayZekaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\obj\Debug\YapayZekaProjesi.exe
+C:\Users\User\source\repos\YapayZekaProjesi\YapayZekaProjesi\obj\Debug\YapayZekaProjesi.pdb
